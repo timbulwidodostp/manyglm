@@ -1,6 +1,8 @@
 # manyglm
 Fitting Generalized Linear Models for Multivariate Abundance Data Use manyglm (mvabund) With (In) R Software
 
+https://www.youtube.com/watch?v=wbY9Wcc_g-M
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
